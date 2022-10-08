@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mohammeddawida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-dawida-54781123a/)](https://www.linkedin.com/in/mohammed-dawida-54781123a/)
 [![Instagram Badge](https://img.shields.io/badge/-mohammeddawida-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mohammeddawida/)](https://instagram.com/mohammeddawida)
 [![Gmail Badge](https://img.shields.io/badge/-mahmmd.a.d@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahmmd.a.d@gmail.com)](mailto:mahmmd.a.d@gmail.com)
-
+[![Twitter Badge](https://img.shields.io/badge/-mahmmd_a_d-003371?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mahmmd_a_d)](https://twitter.com/mahmmd_a_d)
 
 ### Languages and Tools:
 
