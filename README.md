@@ -18,10 +18,10 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmmd&show_icons=true&theme=dracula)](https://github.com/mahmmd)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammeddawida&show_icons=true&theme=dracula)](https://github.com/mahmmd)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahmmd&repo=moyasar_payment&theme=dracula)](https://github.com/mahmmd/moyasar_payment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammeddawida&repo=moyasar_payment&theme=dracula)](https://github.com/mahmmd/moyasar_payment)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmmd&layout=compact&theme=dracula)](https://github.com/mahmmd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeddawida&layout=compact&theme=dracula)](https://github.com/mahmmd)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mohammeddawida)
