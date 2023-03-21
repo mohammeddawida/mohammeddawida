@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammed Dawida  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![GitHub followers](https://img.shields.io/github/followers/mahmmd?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/mahmmd_a_d?style=social)
+![GitHub followers](https://img.shields.io/github/followers/mohammeddawida?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/mohammeddawida?style=social)
 
 ## I'm a  Developer 
 
