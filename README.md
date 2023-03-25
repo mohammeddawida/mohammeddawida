@@ -1,8 +1,5 @@
 # Hi there, I'm Mohammed Dawida  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![GitHub followers](https://img.shields.io/github/followers/mohammeddawida?style=social)  ![Twitter Follow](https://img.shields.io/twitter/follow/mohammeddawida?style=social)
-
-
 <p align="center">
 	<a href="https://twitter.com/mohammeddawida"><img src="twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/mohammeddawida"><img src="github.svg" alt="GitHub"></a>
