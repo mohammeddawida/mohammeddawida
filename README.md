@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="https://twitter.com/mohammeddawida"><img src="twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/mohammeddawida"><img src="github.svg" alt="GitHub"></a>
-	<a href="https://github.com/sponsors/mohammeddawida"><img src="sponsors.svg" alt="Sponsors"></a>
+<!-- 	<a href="https://github.com/sponsors/mohammeddawida"><img src="sponsors.svg" alt="Sponsors"></a> -->
 	<a href="https://mohammed-dev.com/cv/wp-content/uploads/2023/03/Mohammed-awad-dawida-CV-Resume-001.pdf"><img src="cv.svg" alt="Mohammed Dawida"></a>
 </p>
 
