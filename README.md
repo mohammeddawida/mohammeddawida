@@ -42,6 +42,9 @@ I'm a software developer who is passionate about creating applications using the
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammeddawida&repo=Smart-Home&theme=dracula)](https://github.com/mohammeddawida/Smart-Home)
 
+[![Github Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammeddawida&layout=compact&theme=dracula)](https://github.com/mohammeddawida)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammeddawida&layout=compact&theme=dracula)](https://github.com/mohammeddawida)
+
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mohammeddawida)
